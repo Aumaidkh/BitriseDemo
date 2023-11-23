@@ -19,4 +19,9 @@ class ExampleUnitTest {
     fun `multiplication is correct`(){
         assertEquals(4,2*2)
     }
+
+    @Test
+    fun `subtraction is correct`(){
+        assertEquals(4,2-2)
+    }
 }
