@@ -1,2 +1,2 @@
 # BitriseDemo
-[![Build Status](https://app.bitrise.io/app/45fd7ade-145d-4c1b-b1e0-0d9b5e613b5a/status.svg?token=hZOr6g6bVgetscfT7W98nQ&branch=master)](https://app.bitrise.io/app/45fd7ade-145d-4c1b-b1e0-0d9b5e613b5a)
+[![Build Status](https://app.bitrise.io/app/76979106-28ae-4738-a9b0-bec920715c7c/status.svg?token=2oa0nX7pbtvM-fg4QklavQ&branch=master)](https://app.bitrise.io/app/76979106-28ae-4738-a9b0-bec920715c7c)
