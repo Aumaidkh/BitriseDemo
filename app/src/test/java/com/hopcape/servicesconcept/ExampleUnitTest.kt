@@ -22,6 +22,6 @@ class ExampleUnitTest {
 
     @Test
     fun `subtraction is correct`(){
-        assertEquals(4,2-2)
+        assertEquals(0,2-2)
     }
 }
